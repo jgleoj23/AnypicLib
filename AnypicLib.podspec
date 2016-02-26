@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AnypicLib"
-  s.version      = "0.0.3"
+  s.version      = "0.0.3.LOCAL"
   s.summary      = "AnypicLib template app."
 
   # This description is used to generate tags and improve search results.
