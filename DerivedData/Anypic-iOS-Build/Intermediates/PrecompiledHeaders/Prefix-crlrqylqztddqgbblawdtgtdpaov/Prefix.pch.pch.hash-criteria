@@ -1,0 +1,68 @@
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fobjc-arc
+-gmodules
+-fpascal-strings
+-O0
+-fno-common
+-DDEBUG
+-DCOCOAPODS=1
+-DDEBUG
+-DTESTING
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.2.sdk
+-fasm-blocks
+-mios-simulator-version-min=9.2
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-iquote
+-iquote
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/DerivedData/Anypic-iOS-Build/Products/Debug-iphonesimulator/include
+-Iinclude/Anypic
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/Bolts
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/FBSDKCoreKit
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/FBSDKLoginKit
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/FormatterKit
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/MBProgressHUD
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/Parse
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/ParseCrashReporting
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/ParseFacebookUtilsV4
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/ParseUI
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/Reachability
+-I/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/UIImageEffects
+-F/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/DerivedData/Anypic-iOS-Build/Products/Debug-iphonesimulator
+-F/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/Bolts
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/FBSDKCoreKit
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/FBSDKLoginKit
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/FormatterKit
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/MBProgressHUD
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/Parse
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/ParseCrashReporting
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/ParseFacebookUtilsV4
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/ParseUI
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/Reachability
+-isystem
+/Users/Joseph/Desktop/ios projects/selfie360-ios/Anypic-iOS/Pods/Headers/Public/UIImageEffects
+x86_64-apple-darwin15.3.0
+"4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)"
+SDK_PRODUCT_BUILD_VERSION=13C75
+13C75
