@@ -17,8 +17,8 @@
     #import <ParseUI/ParseUI.h>
     #import <ParseFacebookUtilsV4/ParseFacebookUtilsV4.h>
     #import <ParseCrashReporting/ParseCrashReporting.h>
-    #import "PAPCache.h"
+//    #import "PAPCache.h"
     #import "PAPConstants.h"
-    #import "PAPUtility.h"
+//    #import "PAPUtility.h"
 #endif
 
