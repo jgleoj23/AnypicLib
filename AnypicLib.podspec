@@ -76,8 +76,7 @@ s.license          = { :type => 'BSD' }
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-s.source       = { :git => '/Users/Joseph/Documents/POD_HOME/Anypic-iOS/.git/',
-                                        :commit => "HEAD" }
+s.source       = { :git => '/Users/Joseph/Documents/POD_HOME/Anypic-iOS/.git/', :tag=>"first"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -88,10 +87,10 @@ s.source       = { :git => '/Users/Joseph/Documents/POD_HOME/Anypic-iOS/.git/',
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = 'Anypic-iOS/*.{h,m,c}'
+s.source_files  = '*/**{.h,.m,.c}'
 #s.exclude_files = "Classes/Exclude"
 
-  # s.public_header_files = "Anypic-iOS/**/*.h"
+   s.public_header_files = "*/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -114,7 +113,7 @@ s.source       = { :git => '/Users/Joseph/Documents/POD_HOME/Anypic-iOS/.git/',
   #  the lib prefix of their name.
   #
 
-  # s.framework  = "SomeFramework"
+   s.framework  = "Foundation"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
