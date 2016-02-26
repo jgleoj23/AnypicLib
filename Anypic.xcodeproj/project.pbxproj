@@ -506,6 +506,10 @@
 		7C9337B91C7F5CA600E280F7 /* libPods-AnypicLib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-AnypicLib.a"; path = "/Users/Joseph/Desktop/ios projects/selfie360-ios/Pods/../build/Debug-iphoneos/libPods-AnypicLib.a"; sourceTree = "<absolute>"; };
 		7C9337BC1C7F5D8E00E280F7 /* libPods-AnypicLib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-AnypicLib.a"; path = "/Users/Joseph/Desktop/ios projects/selfie360-ios/Pods/../build/Debug-iphoneos/libPods-AnypicLib.a"; sourceTree = "<absolute>"; };
 		7C9337BE1C7F5DCF00E280F7 /* libParse.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libParse.a; path = "../Pods/build/Distribution-iphoneos/libParse.a"; sourceTree = "<group>"; };
+		7C975ABE1C800D66009F780C /* Pods-AnypicLib.ad hoc.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "Pods-AnypicLib.ad hoc.xcconfig"; path = "Pods/Target Support Files/Pods-AnypicLib/Pods-AnypicLib.ad hoc.xcconfig"; sourceTree = "<group>"; };
+		7C975ABF1C800D66009F780C /* Pods-AnypicLib.debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "Pods-AnypicLib.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AnypicLib/Pods-AnypicLib.debug.xcconfig"; sourceTree = "<group>"; };
+		7C975AC01C800D66009F780C /* Pods-AnypicLib.distribution.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "Pods-AnypicLib.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-AnypicLib/Pods-AnypicLib.distribution.xcconfig"; sourceTree = "<group>"; };
+		7C975AC11C800D66009F780C /* Pods-AnypicLib.release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "Pods-AnypicLib.release.xcconfig"; path = "Pods/Target Support Files/Pods-AnypicLib/Pods-AnypicLib.release.xcconfig"; sourceTree = "<group>"; };
 		7CA72AF01C7D181700107607 /* libPods-Anypic.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-Anypic.a"; path = "Pods/../build/Debug-iphoneos/libPods-Anypic.a"; sourceTree = "<group>"; };
 		7CA72AFA1C7D1CAA00107607 /* libPods-Anypic.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-Anypic.a"; path = "Pods/../build/Debug-iphoneos/libPods-Anypic.a"; sourceTree = "<group>"; };
 		7CA72AFC1C7D1CBB00107607 /* libParse.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libParse.a; path = "Pods/../build/Debug-iphoneos/libParse.a"; sourceTree = "<group>"; };
@@ -682,6 +686,10 @@
 		09ABC06213A1D52D009C3FCF = {
 			isa = PBXGroup;
 			children = (
+				7C975ABE1C800D66009F780C /* Pods-AnypicLib.ad hoc.xcconfig */,
+				7C975ABF1C800D66009F780C /* Pods-AnypicLib.debug.xcconfig */,
+				7C975AC01C800D66009F780C /* Pods-AnypicLib.distribution.xcconfig */,
+				7C975AC11C800D66009F780C /* Pods-AnypicLib.release.xcconfig */,
 				C4F101FE156C54B50061BC3E /* Configuration */,
 				09ABC07713A1D52D009C3FCF /* Anypic */,
 				7C562F491C722EAE00E97995 /* AnypicLib */,
