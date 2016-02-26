@@ -76,7 +76,7 @@ s.license          = { :type => 'BSD' }
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-s.source       = { :git => '/Users/Joseph/Documents/POD_HOME/Anypic-iOS/.git/', :tag=>"first"}
+s.source       = { :git => 'https://github.com/jgleoj23/AnypicLib.git', :tag=>"first"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
