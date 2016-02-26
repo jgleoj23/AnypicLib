@@ -12,6 +12,8 @@
 #import "PAPLoadMoreCell.h"
 #import "PAPAccountViewController.h"
 #import "MBProgressHUD.h"
+#import "PAPCache.h"
+#import "PAPUtility.h"
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 typedef enum {

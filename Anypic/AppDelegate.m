@@ -19,6 +19,7 @@
 #import "PAPWelcomeViewController.h"
 #import "PAPActivityFeedViewController.h"
 #import "PAPPhotoDetailsViewController.h"
+#import "PAPCache.h"
 
 @interface AppDelegate () {
     BOOL firstLaunch;

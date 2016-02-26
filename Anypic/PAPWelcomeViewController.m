@@ -8,6 +8,8 @@
 
 #import "PAPWelcomeViewController.h"
 #import "AppDelegate.h"
+#import "PAPUtility.h"
+#import "PAPCache.h"
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 

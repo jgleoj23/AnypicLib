@@ -8,6 +8,7 @@
 
 #import "PAPUtility.h"
 #import "UIImage+ResizeAdditions.h"
+#import "PAPCache.h"
 
 @implementation PAPUtility
 

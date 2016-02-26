@@ -11,6 +11,8 @@
 #import "TTTTimeIntervalFormatter.h"
 #import "PAPLoadMoreCell.h"
 #import "UIImage+ImageEffects.h"
+#import "PAPUtility.h"
+#import "PAPCache.h"
 
 @interface PAPAccountViewController()
 @property (nonatomic, strong) UIView *headerView;

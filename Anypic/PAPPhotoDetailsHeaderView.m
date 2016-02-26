@@ -8,7 +8,9 @@
 
 #import "PAPPhotoDetailsHeaderView.h"
 #import "PAPProfileImageView.h"
+#import "PAPUtility.h"
 #import "TTTTimeIntervalFormatter.h"
+#import "PAPCache.h"
 #import <ParseUI/ParseUI.h>
 
 #define baseHorizontalOffset 0.0f

@@ -9,6 +9,8 @@
 #import "PAPEditPhotoViewController.h"
 #import "PAPPhotoDetailsFooterView.h"
 #import "UIImage+ResizeAdditions.h"
+#import "PAPUtility.h"
+#import "PAPCache.h"
 
 @interface PAPEditPhotoViewController ()
 @property (nonatomic, strong) UIScrollView *scrollView;

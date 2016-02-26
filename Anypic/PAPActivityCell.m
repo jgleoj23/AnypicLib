@@ -10,6 +10,7 @@
 #import "TTTTimeIntervalFormatter.h"
 #import "PAPProfileImageView.h"
 #import "PAPActivityFeedViewController.h"
+#import "PAPUtility.h"
 
 static TTTTimeIntervalFormatter *timeFormatter;
 

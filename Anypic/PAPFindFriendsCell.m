@@ -8,6 +8,7 @@
 
 #import "PAPFindFriendsCell.h"
 #import "PAPProfileImageView.h"
+#import "PAPUtility.h"
 
 @interface PAPFindFriendsCell ()
 /*! The cell's views. These shouldn't be modified but need to be exposed for the subclass */
